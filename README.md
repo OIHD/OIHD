@@ -4,13 +4,13 @@ Hi ! My name is Göktuğ /Gəʊktʃu: . I'm 22 years old and living in the TUR. 
 
 ### languages I use
 main : C++ , Rust
+
 others : Lua , C#
 
 #### OS
 Pop-OS 22.04 amd64 nvidia_2
 
 #### Social
-
 my website:
 http://oihd.net/
 
