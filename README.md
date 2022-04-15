@@ -6,10 +6,10 @@ Hi ! My name is Göktuğ /Gəʊktʃu: . I'm 22 years old and living in the TUR. 
 main : C++ , Rust
 others : Lua , C#
 
-###OS
+#### OS
 Pop-OS 22.04 amd64 nvidia_2
 
-###Social
+#### Social
 
 my website:
 http://oihd.net/
