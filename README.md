@@ -8,7 +8,7 @@ main : C++ , C#
 others : Python
 
 #### OS
-Pop-OS 22.04 amd64 nvidia LTS
+KDE Neon
 
 #### Social
 my website:
