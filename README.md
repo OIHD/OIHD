@@ -8,7 +8,7 @@ main : C++ , C#
 others : Python
 
 #### OS
-KDE Neon
+Manjaro
 
 #### Social
 my website:
