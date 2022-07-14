@@ -12,7 +12,7 @@ Manjaro
 
 #### Social
 my website:
-http://oihd.net/
+https://oihd.net/
 
 my artstation acc:
 https://www.artstation.com/oihd
