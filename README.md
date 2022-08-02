@@ -1,7 +1,4 @@
 ## Hi there 👋 im using GitHub
-### languages I use
-C++ , C# , Python
 
-#### Social
-my website:
-https://oihd.net/
+I am open to C++ job offers.
+I write codes in python, c++, c# languages. I like to use GNU & Linux.
